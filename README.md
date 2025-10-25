@@ -17,13 +17,16 @@
 
 <br>
 
-<a href="https://github.com/camifermoso">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=camifermoso&theme=default&hide_border=false&border_color=EAEAEA&title_color=111&text_color=333&icon_color=111&bg_color=FFFFFF" />
-</a>
-
-<a href="https://github.com/camifermoso">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=camifermoso&layout=compact&theme=default&hide_border=false&border_color=EAEAEA&title_color=111&text_color=333&bg_color=FFFFFF" />
-</a>
+<p align="center">
+  <a href="https://github.com/camifermoso">
+    <img height="150"
+      src="https://github-readme-stats.vercel.app/api?username=camifermoso&show_icons=true&rank_icon=github&hide_border=false&border_color=EAEAEA&title_color=111&text_color=333&icon_color=111&bg_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/camifermoso">
+    <img height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=camifermoso&layout=compact&hide_border=false&border_color=EAEAEA&title_color=111&text_color=333&bg_color=FFFFFF" />
+  </a>
+</p>
 
 <br>
 
