@@ -34,7 +34,6 @@
 
 <h3 align="center">📊 GitHub Overview</h3>
 
-<h3 align="center">📊 GitHub Overview</h3>
 
 <p align="center">
   <img
