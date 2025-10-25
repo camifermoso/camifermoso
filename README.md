@@ -34,14 +34,23 @@
 
 <h3 align="center">📊 GitHub Overview</h3>
 
+<h3 align="center">📊 GitHub Overview</h3>
+
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=camifermoso&show_icons=true&theme=default&hide_title=false&hide_border=false&border_color=EAEAEA&title_color=111&text_color=333&icon_color=111&bg_color=FFFFFF&ring_color=111" 
-    alt="Camila's GitHub stats" height="170" />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=camifermoso&layout=normal&hide=html,css,scss,shell&hide_title=false&hide_border=false&border_color=EAEAEA&title_color=111&text_color=333&bg_color=FFFFFF" 
-    alt="Top Languages" height="170" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=camifermoso&show_icons=true&theme=default&hide_title=false&hide_border=false&border_color=EAEAEA&title_color=111&text_color=333&icon_color=111&bg_color=FFFFFF"
+    alt="Camila's GitHub stats"
+    height="170"
+    style="display:inline-block;margin:0 8px;"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=camifermoso&layout=compact&hide_title=false&hide_border=false&border_color=EAEAEA&title_color=111&text_color=333&bg_color=FFFFFF"
+    alt="Top Languages"
+    height="170"
+    style="display:inline-block;margin:0 8px;"
+  />
 </p>
+
 
 
 ---
