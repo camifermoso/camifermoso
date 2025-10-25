@@ -15,9 +15,6 @@
 <p align="center">
   I’m a <strong>Systems Engineering student</strong> driven by the intersection of <strong>AI, design, and human insight</strong>.<br>
   I build clean, thoughtful systems — where analytical precision meets creative expression.<br><br>
-  🧠 Exploring machine learning, predictive modeling, and distributed systems<br>
-  💡 Creator of <em>UniRate</em>, <em>AMI Fuel</em>, and <em>BrainScan AI</em><br>
-  🌱 Believer in “less noise, more signal.”
 </p>
 
 ---
