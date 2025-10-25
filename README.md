@@ -9,7 +9,9 @@
     <img src="https://img.shields.io/badge/Gmail-252B42?style=flat&logo=gmail&logoColor=EDEFF2&labelColor=252B42&color=252B42" alt="Gmail" style="border-radius:8px;"/>
   </a>
 </p>
+
 ---
+
 <p align="center">
   I’m a <strong>Systems Engineering student</strong> driven by the intersection of <strong>AI, design, and human insight</strong>.<br>
   I build clean, thoughtful systems — where analytical precision meets creative expression.<br><br>
