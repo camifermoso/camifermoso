@@ -30,7 +30,7 @@
 
 <br>
 
-**`Building intelligent systems with purpose and simplicity.`** ✧  
+**`Building intelligent systems with purpose and simplicity.`**   
 
 </div>
 
