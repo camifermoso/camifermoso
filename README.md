@@ -44,4 +44,4 @@ Most of what I do balances analytical precision with creative expression — I l
 
 ---
 
-<p align="center"><sub>✨ “Building intelligent systems with purpose and simplicity.” ✨</sub></p>
+<p align="center"><sub> “Building intelligent systems with purpose and simplicity.” </sub></p>
