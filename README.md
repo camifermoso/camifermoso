@@ -36,10 +36,13 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=camifermoso&show_icons=true&theme=default&hide_title=false&hide_border=false&border_color=EAEAEA&title_color=111&text_color=333&icon_color=111&bg_color=FFFFFF&ring_color=111" 
+    src="https://github-readme-stats.vercel.app/api?username=camifermoso&show_icons=true&theme=default&hide_title=false&hide_border=false&border_color=EAEAEA&title_color=111&text_color=333&icon_color=111&bg_color=FFFFFF" 
     alt="Camila's GitHub stats" height="150" />
+</p>
+
+<p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=camifermoso&layout=compact&theme=default&hide_title=false&hide_border=false&border_color=EAEAEA&title_color=111&text_color=333&bg_color=FFFFFF" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=camifermoso&layout=compact&hide_title=true&hide_border=true&bg_color=FFFFFF&text_color=333&title_color=111" 
     alt="Top Languages" height="150" />
 </p>
 
