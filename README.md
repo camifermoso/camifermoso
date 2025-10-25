@@ -12,9 +12,8 @@
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-252B42.svg?style=for-the-badge&logo=gmail&logoColor=EDEFF2" />
 </a>
 
-🌱 *Systems Engineering student passionate about the intersection of AI, design, and human insight.*  
+💡 *Systems Engineering student passionate about the intersection of AI, design, and human insight.*  
 🧠 *Exploring machine learning, predictive modeling, and distributed systems.*  
-💡 *Building projects like **UniRate**, **AMI Fuel**, and **BrainScan AI**, where clarity meets innovation.*  
 
 <br>
 
