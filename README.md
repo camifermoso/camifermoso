@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Segoe UI', Helvetica, sans-serif;">Camila Fermoso ⟡</h1>
+<h1 align="center" style="font-family: 'Segoe UI', Helvetica, sans-serif;">Camila Fermoso 💫</h1>
 <p align="center"><em>AI · Systems Engineering · Design</em></p>
 
 <p align="center">
