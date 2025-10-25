@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1> Camila Fermoso💫</h1>  
+<h1> Camila Fermoso 💫</h1>  
 
 **`AI · Systems Engineering · Data Science`**  
 
