@@ -2,7 +2,7 @@
 
 <h1> Camila Fermoso💫</h1>  
 
-**AI · Systems Engineering **  
+**`AI · Systems Engineering · Data Science`**  
 
 <a href="https://linkedin.com/in/camilafermoso" target="_blank" rel="noopener noreferrer">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-252B42.svg?style=for-the-badge&logo=linkedin&logoColor=EDEFF2" />
