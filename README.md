@@ -12,10 +12,13 @@
 
 ---
 
+
 <p align="center">
   I’m a <strong>Systems Engineering student</strong> driven by the intersection of <strong>AI, design, and human insight</strong>.<br>
   I build clean, thoughtful systems — where analytical precision meets creative expression.<br><br>
 </p>
+
+
 ---
 
 <h3 align="center">🚀 Featured Work</h3>
