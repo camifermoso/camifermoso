@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Camila Fermoso 💫</h1>  
-<p style="color:#555;"><em>AI · Systems Engineering · Data Science</em></p>
+<p style="color:#555;"><em>Systems Engineering · Data Science · AI</em></p>
 
 <a href="https://linkedin.com/in/camilafermoso" target="_blank" rel="noopener noreferrer">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2&border_radius=10"/>
