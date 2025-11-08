@@ -14,7 +14,7 @@
 <br><br>
 
 💡 *Systems Engineering student passionate about the intersection of AI, design, and human insight.*  
-🧠 *Exploring machine learning, predictive modeling, and distributed systems.*  
+*Exploring machine learning, predictive modeling, and distributed systems.*  
 
 <br>
 
